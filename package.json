@@ -10,6 +10,7 @@
         "eslint-config-prettier": "^8.5.0",
         "eslint-plugin-import": "^2.26.0",
         "eslint-plugin-prettier": "^4.0.0",
+        "eslint-plugin-jest": "^26.5.1",
         "husky": "^8.0.1",
         "jest": "^28.1.0",
         "lint-staged": "^12.4.1",
@@ -28,6 +29,5 @@
         "**/*": "prettier --write --ignore-unknown"
     },
     "dependencies": {
-        "eslint-plugin-jest": "^26.5.1"
     }
 }
